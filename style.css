@@ -1,0 +1,17 @@
+     body 
+         {
+            background-color: grey;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+          }
+        h1 
+         {
+            text-align: center;
+            color: white;
+         }
+        h2 
+          {
+            text-align: center;
+            color: yellow;
+            margin-top: 10px;   
+           } 
